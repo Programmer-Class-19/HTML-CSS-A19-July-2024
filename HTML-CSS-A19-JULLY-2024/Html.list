@@ -1,0 +1,21 @@
+<!<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="elhaqq06" content="width=device-width, initial-scale=1.0">
+    <title>List Harian</title>
+    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="https://codepen.io/GreenSock/pen/xxmzBrw.css">
+</head>
+
+<body>
+<h3><b>Yang harus dikerjakan di setiap hari</b></h3>
+<ol>
+    <li>Bangun Pagi</li>
+    <li>Wudhu</li>
+    <li>Tahajud</li>
+</ol>
+<ol type="I">
+    <li></ol>
+</body>
