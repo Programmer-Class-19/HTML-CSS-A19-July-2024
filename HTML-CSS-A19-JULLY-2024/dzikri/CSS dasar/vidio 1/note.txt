@@ -1,0 +1,7 @@
+css : cascading style sheet
+-aturan yang digunakan untuk menampilkan elemen / tag html
+-Dibuat terpisah dengan html
+-bertujuan untuk memisahkan kontendan style 
+-1css dapat digunakan untuk banyak halaman html
+-1 halaman html dapat terlihat berbeda jika menggunakan css yang berbeda
+"mekanisme sederhama yang mengatur gaya /style (cth:warna ,ukuran,posisi,dll)
