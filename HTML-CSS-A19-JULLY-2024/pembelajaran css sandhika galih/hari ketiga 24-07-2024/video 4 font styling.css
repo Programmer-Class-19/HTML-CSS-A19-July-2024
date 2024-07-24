@@ -1,0 +1,21 @@
+font-family 
+    mengatur jenis font yang akan digunakan.
+        isinya ada nama font dan generic family (arial bla bla bla)
+    body {
+        font-family: arial (nama font), verdana, sans-serif (generic family)
+    } 
+
+font-size
+    mengatur ukuran font
+
+font-weight
+    mengatur ketebalan font
+
+font-variant
+    mengubah font menjadi small caps
+
+font-style
+    mengubah font menjadi cetak miring
+    
+line-height
+    mengatur spasi antar baris

@@ -1,0 +1,13 @@
+anatomy css
+    selector { property: value; } sintak untuk mendeklarasi sebuah css <struktur css>. contoh nya <selector> h1 { <property> color: <value:> blue; }
+
+    selector { property: value: }
+
+    contoh di bawah ini :
+
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        font-size: 30px;
+        color: blue;
+    }

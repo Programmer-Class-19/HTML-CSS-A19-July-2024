@@ -1,0 +1,20 @@
+css
+css singkatan dari cascading style sheet
+
+www.csszengarden.com
+
+fungsi / aturan tata cara:
+
+1. aturan yang di gunakan untuk menampilkan elemen / tag HTML (bajunya html)
+2. di buat terpisah dengan HTML
+3. bertujuan untuk memisahkan konten (html) dan style (css)
+4. 1 css dapat digunakan untuk di gunakan banyak halaman HTML
+5. 1 halaman HTML dapat terlihat berbeda jika menggunakan CSS yang berbeda pula
+
+fungsinya : untuk merubah tampilan halaman web
+
+definisinya : adalah mekanisme sederhana yang mengatur gaya atau style pada halaman web
+
+sebelum ada css html juga bisa merubah tampilan namun tidak simple
+
+setelah kehadiran css simple sekali bung, kita bisa memisah kan style dan html di file yang berbeda jika ingin mengaktifkan hanya tinggal memanggilnga saja
