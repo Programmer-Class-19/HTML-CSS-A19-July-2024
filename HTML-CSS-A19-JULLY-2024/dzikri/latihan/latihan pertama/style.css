@@ -1,0 +1,30 @@
+body {
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: capitalize;
+}
+
+.container {
+    font-style: normal;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.data {
+    text-decoration: none;
+    text-align: center;
+}
+
+.header {
+    color: beige;
+    text-align: center;
+    margin-top: 10%;
+}
+.paragraf {
+    color: beige;
+    text-align: center;
+
+}
+
