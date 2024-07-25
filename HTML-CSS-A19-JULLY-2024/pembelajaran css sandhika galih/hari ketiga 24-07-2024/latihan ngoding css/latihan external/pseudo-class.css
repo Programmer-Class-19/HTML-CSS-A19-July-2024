@@ -1,0 +1,25 @@
+.hello:link {
+    color: black;
+    text-decoration: none;
+}
+.hello:hover {
+    color: yellowgreen;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: fantasy;
+}
+.hello:active {
+    font-style: oblique
+}
+.hello:visited {
+    color: brown;
+}
+li:nth-child(3n-2) a {  /*gunanya nth adalah mengurutkan list yang ke 3 atau selain first & last child dan gunanya n adalah kelipatan dan (-) gunanya mengurangi bilangan tersebut*/
+
+    /* even untuk genap dan odd untuk ganjil */
+    color: red;
+}
+    /* pseudo class untuk elemen yang tidak berada di elemen selain body */
+p:last-of-type {
+    color: brown;
+}

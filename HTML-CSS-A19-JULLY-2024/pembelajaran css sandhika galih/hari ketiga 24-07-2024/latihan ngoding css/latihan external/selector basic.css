@@ -1,0 +1,40 @@
+/* elemen html untuk satu bagian saja */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* kalo memiliki properti yang sama memberi tanda koma */
+
+h1, h2 {
+    color: hotpink;
+}
+
+/* memberikan a href yang berada di list salah satunya harus menggunakan a */
+    /* tolong pangilkan a di dalam li di dalam ul */
+ul li a {
+    color: khaki;
+}
+
+ol li a {
+    color: rebeccapurple;
+}
+
+/* untuk mengubah style salah satu paragraf harus menggunaka id dan class */
+
+    /* kalo id menggunakan tanda pagar # */
+    /* kalo class menggunakan titik */
+
+#p1 {
+    color: red;
+}
+
+.p2 {
+    color: blue;
+}
+
+.cetak-tebal {
+    font-family: 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+}
+
