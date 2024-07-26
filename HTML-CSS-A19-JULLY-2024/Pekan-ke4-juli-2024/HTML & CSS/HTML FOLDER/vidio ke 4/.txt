@@ -1,0 +1,91 @@
+Pembahasan  tag pada <html>
+dalam tag ada yang berpasangan dan ada yang tidak 
+tag yang berpasangan  memiliki tag pembuka < > dan tag penutup < / >
+ dan dalam html ada 2 tag yang paling utama : 1. head <head> </head>
+                                              2. body
+
+pembahasan pertama tag - tag  yang terdapat pada bagian tag head :
+bagian <head> ada beberapa tag di dalam nya 
+
+1. Judul halaman / judul tab webset
+<title></title>
+
+2. CSS
+<styel></styel>
+
+3.Javascript
+<script></script>
+
+4. meta data 
+<meta></meta>
+isi meta data 
+<head>
+    <meta charset="UTF-8">
+    <meta name="descriptios" content="mengenai website mas'ud">
+    <meta name="outohr" content="Mas'uD">
+</head>
+
+
+pembahasan kedua tag - tag yang terdapat pada bagian tag body :
+bagian body ada beberapa tag di dalam nya 
+
+1. Teks
+<h1 sampai h6> tag <h>=Heading , <p>= paragraf
+
+2. Pendukung Teks
+<br> , <hr> , <em> , <strong>
+
+3. Gambar 
+<img>
+
+4. Hyperlink
+<a> = Anchor 
+
+5. List ( bullets & numbering )
+<ul> , <ol> , <li> , <dl> , <dt> , <dd>
+
+6. Tabel
+<table> , <thead> , <tbody> ,
+
+7. Form
+<form> , <input> , <select> , <button> ,
+
+8. Script 
+<script>
+
+9. Object
+<object>
+
+10. Grouping 
+<div> , <span> 
+
+Komentar 
+<!-- m a s , u d --!>
+tag = komentar sebagai tanda pada codinggan kita dan tidak dapat di lihat pada website
+cara buat tag komentar = klik {ctrl} + ?
+
+
+=> tag memiliki  sebuah struktur
+<nama tag atribut"nilai atau value">
+contohnya :
+<body bgcolor="lightblue">
+body sebagai = name tag
+bgcolor sebagai = atribut
+"lightblue" sebagai = nilai atau value
+dan sebuah tag boleh memiliki lebih dari 1 atribut 
+contohnya :
+<body bgcolor="lightblue"  id="myid"  class="myclass">
+tiap tag juga memiliki atribut default/bawaan disebut Atribut GlobaL
+pada atribut GlobaL terdapat :
+~ acscesskey = fungsinya untuk menentukan elemen ini dapat diakses dengan keybord
+~ class = fungsinya sebagai tanda
+~ id =  fumgsinya sebagai tanda
+~ dir = fungsinya menentukan arah tulisannya atau ( direction )
+~ lang = fungsinya untuk language
+~ styel = fungsinya untuk menysipkan inline css 
+~ tabindex = fungsinya untuk menentukan urutan pada form  saat membuat tab dan fokus cursornya pindah kemana 
+~ title  = fungsinya untuk memberi judul pada elemen 
+
+
+~ atribut lengkap ada di 
+ www.w3school.com/tags

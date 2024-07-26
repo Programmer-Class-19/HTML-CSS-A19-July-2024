@@ -1,0 +1,24 @@
+Code pada HTML untuk meembuat web sederhana 
+<!Doctype html>
+<html>
+<head>
+<title></title>
+</head>
+
+<body>
+
+</body>
+</html> 
+
+keguanan code diatas sebgai berikut :
+
+<!Doctype html> sebagai perintah atau kasih tau browser mengunakan html pada versi terbarunya atau versinya saat ini 
+< > ini disebut tag pembuka 
+< / > ini deisebut tag penutup
+dalam HTML ada 2 Tag utama: 1. Tag Head = <head> </head>
+                            2. Tag Body = <body>  </body>
+tag <title></title> = gunanya untuk nama atau judul tab  wibsIte kita 
+tag <p> paragraf </p>
+
+
+Dalam Tag memiliki atribut dan value

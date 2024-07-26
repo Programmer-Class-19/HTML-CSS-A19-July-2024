@@ -1,0 +1,21 @@
+pembahasan list pada HTML
+pada list html terdapat beberapa list
+1. tag <ol> Orderer list </ol>
+fungsinya untuk membuat list terurut dan terdapat tag didalamnya 
+ yaitu tag <li> list item </li> dan terdapat di dalam nya 
+ sebuah atribut ( type ) dan nilainya / value : bisa "angka" & "huruf A dan a sebagai abjad" & "huruf i sebagai angka romawi"
+
+2.tag <ul> Unoderer List </ul>
+fungsinya untuk membuat list tidak berpengaruh dan terdapat  tag didalamnya
+yaitu tag <li> list item </li> dan didalamnya  terdapat atribut type da nilainya / value : "disc sebagai = titik  " & " square sebagai = titik berbentuk kotak " & " circle sebagai = titik lingkaran "
+
+3.tag <dl> Description / definition  List  </dl>
+yaitu berfungsi untuk membuat terminalogi dan descripci dan terdapat tag di dalamnya
+yaitu tag <dt> description term </dt> dan <dd> description detail </dd>
+contoh struktur codingannya
+<dl>
+<dt> HTML </dt>   
+<dd> HyperText Markup Language</dd>
+hasilnya :
+HTML
+    HyperText Markup Language 
