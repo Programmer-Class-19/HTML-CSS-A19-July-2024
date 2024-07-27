@@ -1,6 +1,0 @@
-pembahasan menyimpan gambar pada halaman web html kita 
-dalam menyimpan gambar pada web halaman kita menggunakan
- tag <img> image </img> dan dalam tag <img> terdapat sebuah 
- atribut di dalam nya yaitu atribut src ( sourecode ) = dan nilainya atau value nya "" 
- file yang dapat kita gunankan untuk tag <img> dapat dari internal resource yaitu 
- file yang terdapat pada 1 folder yang sama dengan file web halaman html kita 
