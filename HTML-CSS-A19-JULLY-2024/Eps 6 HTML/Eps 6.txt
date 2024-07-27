@@ -1,0 +1,6 @@
+H1 = Ukuran teks besar
+H2 = Ukuran Teks Menurun
+H3 = Ukuran Teks Sedang
+H4 = Ukuran Teks Standar
+H5 = Ukuran Teks Kecil
+H6 = Ukuran Teks Menjadi Lebih Kecil

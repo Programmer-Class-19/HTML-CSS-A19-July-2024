@@ -1,0 +1,6 @@
+Doctype : Memberitahu Web Browser Tentang HTML
+Head : Informasi Untuk Mencari Website Kita
+Tittle : Judul Untuk Website
+P : Untuk Paragraph
+B : Untuk Menebalkan Teks
+I : Untuk Memiringkan Teks 

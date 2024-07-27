@@ -1,0 +1,9 @@
+P = Paragraph
+I = Italic = Untuk Memiringkan Teks
+B = Bold = Untuk Menebalkan Teks
+U = Untuk Menambah Garis Bawah Teks
+em = Untuk Memberikan Penekanan Pada Sebuah Teks
+Strong = Untuk Memberikan Penekanan yang Kuat Pada Sebuah Teks
+<!-- --> = Untuk Netizen Berkomentar
+br = Untuk Menambah Baris Baru
+hr = Untuk Menambah Garis Horizontal

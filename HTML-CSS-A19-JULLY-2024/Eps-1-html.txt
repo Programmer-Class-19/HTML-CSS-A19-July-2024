@@ -1,0 +1,22 @@
+HTMl
+ HTMl(Hypertext Markup Language) Atau Disebut Bahasa Markup 
+ Bukan Bahasa Pemograman
+
+ HTML Disebut Mark up Plan with Yg Nantinya MarkupItu Akan
+ Disebut Teks Yg Berfungsi untuk Scroll Browser Dimana
+ Semua Konten akan Ditampilkan
+
+ HTML sendiri Diciptakan oleh Tim Beners-Lee
+ Selain HTML Beliau Juga Menemunkan Banyak Hal
+ HTTP                    - Web Servers
+ HTML
+ WWW
+ Web Browser
+ Beliau Juga Menjabat Sebagai Direktur DiPerusahaan Web
+ W3C (World Wide Web Consortium) Peran W3C Untuk 
+ Mengemangkan Web dlm Jangka Panjang Jadi Kalau
+ HTML Punya Standar Maka Kita juga harus Mengupdate
+ Browser Kita Plus Kita Juga Bisa Melihat Standar Baru
+
+ HTML Juga Diciptakan Untuk Membuat Struktur Standar
+ Halaman & Menyajikan Konten
