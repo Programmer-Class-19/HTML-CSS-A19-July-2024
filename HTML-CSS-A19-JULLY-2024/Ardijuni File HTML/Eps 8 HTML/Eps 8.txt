@@ -1,0 +1,23 @@
+Link adlh sebuah connections dari sebuah sumber web ke sumber lain
+dengan kata lain tidak ada link tidak ada pula sumber website
+
+<a> = Anchor = Digunakan Untuk Membuat Link
+<a href=""></a> = Digunakan Untuk Memasukan Link
+
+<a href=""></a> = exsternal Link
+http://www.google.com
+http://instagram.com/Juniard_005
+
+<a href=""></a> = internal Link
+Product.html
+../admin/idext.html
+
+<a href=""></a> = Page Anchor
+#About
+indext.html#Contact
+
+<a href=""></a>
+_Self
+_Blank
+_Parent
+_Top

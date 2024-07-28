@@ -1,0 +1,20 @@
+Img = untuk Memasukan Image
+<img src=""> = Kode File Gambar
+
+<img src=""> = Internal resource
+Logo.png Background.Jpg
+
+<img src=""> = external resource
+https://www.gogle.com/images/srpr/logo11w.png
+https://pw.if-unpas.org/2014/images/dosen/sandhika.png
+
+Atribut Dalam Image
+Src = 
+Weidht = Untuk Memberikan Lebar Pada Gambar
+Height = Untuk Menambah Tinggi Pada Gambar
+Alt = Untuk Memberikan Alternatif Teks Pada Gambar
+Tittle = Untuk Menambah Judul Pada Gambar
+
+untuk penulisan Weidht & Height Bisa dengan 2 Nilai
+Px = Pixel = Untuk Mengetik Angkanya Saja
+% = Persen = Untuk Menyesuaikan Ukuran Gambar nya Berdasarkan Nilai Persen

@@ -1,0 +1,10 @@
+Tabel = Untuk Menampilkan Data
+TR = Tabel Row = Untuk Baris Tabel
+TD = Tabel Data = Untuk Menampilkan Kolom Data
+
+Structur Atribut Tabel
+Border = Khusus CSS
+Cellspacing = Khusus CSS
+CellPadding = Khusus CSS
+Colspan = Digunakan Untuk Mengabungkan 2 buah Tabel Yang Horizontal
+Rowspan = Digunakan Untuk Mengabungkan 2 Atau Lebih Baris Vertikal

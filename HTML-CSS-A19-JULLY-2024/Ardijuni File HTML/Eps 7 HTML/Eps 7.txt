@@ -1,0 +1,28 @@
+ul = Unorder list = untuk membuat list Berurutan
+ol = Ordered list = untuk mengganti icon pada list
+dl = Devinitions lis = untuk membuat Daftar Terminology
+
+<ol type= ""></ol>
+
+Typenya
+1 = untuk mengsummon Angka
+A = untuk mengsummon Huruf Besar
+a = untuk mengsummon Huruf Kecil
+I = untuk mengsummon Huruf Romawi Besar
+i = untuk mengsummon Huruf Romawi Kecil
+
+<ul type= ""></ul>
+
+Typenya
+disc = untuk bentuk bulat
+square = untuk bentuk Persegi
+circle = untuk bentuk bulat bergaris
+
+<dl></dl>
+
+Typenya
+<dt>term1</dt>
+<dt>description 1<li>
+
+<dt>term2</dt>
+<dd>description</dt>

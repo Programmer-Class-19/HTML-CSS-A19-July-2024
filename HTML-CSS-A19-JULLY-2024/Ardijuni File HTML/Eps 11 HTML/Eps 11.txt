@@ -1,0 +1,3 @@
+Structur Tabel
+Colspan = Digunakan Untuk Mengabungkan 2 buah Tabel Yang Horizontal
+Rowspan = Digunakan Untuk Mengabungkan 2 Atau Lebih Baris Vertikal

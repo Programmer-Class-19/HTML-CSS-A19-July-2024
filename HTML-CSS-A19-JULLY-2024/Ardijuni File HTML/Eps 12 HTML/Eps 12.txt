@@ -1,0 +1,26 @@
+form = adalah sebuah element html untuk mengololaah data dari input Yang dibuat dari user
+
+element yang ada dalam form
+Input = Dimana user Bisa menginput Sesuatu
+Textarea = Untuk Mengisi Comment & Pesan
+Select = Untuk Menggunakan Dropdown atau Combo box
+Button = Tombol Untuk Mengirimkan Data nya Atau Melakukan Hal Lebih Spespik Lagi
+Label = Untuk Menandai Element Yang Dilabeli Tersebut
+
+Element Input
+<input type="">
+Text = Untuk Text File
+Password = Untuk Memasukan Password
+Radio = Untuk Menanyakan Data Pribadi
+Checkbox = Untuk membuat kotak centang yang dapat diubah.
+Submit = Digunakan Untuk Mengirimkan Formulir
+Reset = Digunakan Untuk Mengatur Ulang Formulir
+Button = Tombol Untuk Mengirimkan Data nya Atau Melakukan Hal Lebih Spespik Lagi
+
+Element Button
+<button type=""></button>
+Submit = Digunakan Untuk Mengirimkan Formulir
+Reset = Digunakan Untuk Mengatur Ulang Formulir
+Button = Tombol Untuk Mengirimkan Data nya Atau Melakukan Hal Lebih Spespik Lagi
+
+ID dan For Harus Sesuai Dengan Karena Apabila salah Satu Ada Yang Beda Maka Pasti Akan Terjadi Eror
