@@ -23,3 +23,17 @@ li:nth-child(3n-2) a {  /*gunanya nth adalah mengurutkan list yang ke 3 atau sel
 p:last-of-type {
     color: brown;
 }
+
+li :hover {
+    font-family: sans-serif;
+    transform :rotate(3.0);
+    background-color: brown;
+}
+
+li:active {
+    font-style: italic
+}
+
+a:hover {
+    color: brown;
+}

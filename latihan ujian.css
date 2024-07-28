@@ -1,0 +1,41 @@
+.container {
+    border: 1px solid black;
+    display: grid;
+    padding: 16px;
+    margin: 10px;
+    color: blue;
+    text-align: ;
+    border-radius: 12px;
+}
+
+p:first-of-type {
+    text-align: ;
+    color: rgb(239, 235, 235);
+    animation-name: fadein;
+}
+
+.heading {
+    color: red;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+
+.link {
+    color: #181818;
+}
+
+ul .unta:first-child a{
+    color: #181818;
+}
+
+
+
+.unta li:hover a{
+    color: red;
+}
+
+.unta li:nth-child(odd) a {
+    color: black;
+}
+ 
