@@ -1,0 +1,58 @@
+pembahasan tag tabel pada html
+tabel html digunakan untuk menampilkan data yang tabular 
+"Tabular" merujuk pada data yang disusun dalam bentuk tabel, di mana informasi diatur dalam 
+baris dan kolom. Struktur ini memudahkan pengorganisasian, analisis, dan pemahaman data. 
+Setiap baris dalam tabel biasanya mewakili satu entitas atau rekaman, sementara setiap kolom
+mewakili atribut atau variabel dari entitas tersebut  
+dalam html membuat tabel menggunakan tag <table> tabel </table> dalam html ada 2 cara membuat struktur table 
+cara pertama tabel [ simpel ] membuat tag <table> dandidalamnya ada tag <tr> table row = gunanya untuk membuat baris dlm sebuah tabel </tr>
+dan dalam tag <tr> ada tag <td> table data = isi sekaligus kolom tabel  </td>
+<table> 
+
+    <tr>
+    <td> baris 19 , kolom 19 </td>
+    <td> baris 19 , kolom 19 </td>
+    </tr>
+    <table> 
+    <tr>
+    <td> baris 19 , kolom 19 </td>
+    <td> baris 19 , kolom 19 </td>
+    </tr>
+
+</table>
+stuktur tabel simpel
+
+cara kedua  tabel complex dibungkus dngn tag <tabel> dan di dalam tag <tabel>
+ada tag <thead> tabel header </thead> dan didalam tag <thead> ada tag <tr> lalu 
+didalam tag <tr> ada tag <th> tabel header  <th> lalu setelah in  membuat stuktur code
+untuk isidata tabel tersebut pada html dengan tag <tbody> dalam tag <tbody> ada tag <tr> dan 
+dalam tag <tr> ada tag <th > lalu di bawah tag  <th> ada  
+tag  <td> contoh strukturnya 
+<table> 
+   <thead>
+   <tr>
+   <th></th>
+   <th> kolom 19 <th>
+   <th> kolom 19 <th>
+   <tr>
+   <thead>
+   <tbody>
+   <tr>
+   <th> baris 1 </th>
+    <td> baris 1 , kolom 1 </td>
+    <td> baris 1 , kolom 2 </td>
+    <tr> 
+    <th> baris 2 </th>
+    <td> baris 2 , kolom 1 </td>
+    <td> baris 2 , kolom 2 </td>
+    <tr>
+    <tbody>
+</table>    
+
+dan dalam tag <table> terdapat lima atribut 
+1. atribut border = nilai / value nya " untuk menambah garis di sekitar kolom "
+2. atribut cellspacing = nilai / value nya " untuk menambah jarak antara kolom "
+3. atribut cellpadding = nilai / value nya  untuk memberikan luas dalam kolom  "
+4. atribut colspan  = nilai / value nya " membuat sebuah merge dengancara horizontal garis lurus ke samping dalam kolom  "
+5. atribut rowspan = nilai / value nya " membuat sebuah merge dengan cara fertikal / row lurus keatas bawah  dalam kolom "
+dan  atribut 

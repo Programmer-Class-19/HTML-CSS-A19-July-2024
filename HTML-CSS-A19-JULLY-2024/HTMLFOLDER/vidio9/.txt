@@ -1,0 +1,19 @@
+pembahasan menyimpan gambar pada halaman web html kita 
+dalam menyimpan gambar pada web halaman kita menggunakan
+tag <img> image </img> dan dalam tag <img> terdapat sebuah 
+atribut di dalam nya yaitu atribut src ( sourecode ) = 
+dan nilainya atau value nya "menyimpan atau menampilkan gambar pada website kita " 
+file yang dapat kita gunankan untuk tag <img> dapat dari internal resource yaitu 
+file yang terdapat pada 1 folder yang sama dengan file web halaman html kita atau
+di folder berbeda tapi harus berada dlm stu domain  dan pada tag <img> terdaoat pula 
+atribut alt ( alternatif text ) = 
+dan valuenya / nilaninya "apapbila gambar kita terjadi bug atau dlm atribut src kurang menampilkan nama filenya maka sebagai gantinya atribut alt yang bakal muncul dengan teks yang berisi pada nilai atau valuenya "
+dan terdapat pula pada tag <img> ada atribut title =
+dan nilai / valuenya " sebagai judul pada gambar dan akan tampil saat anak mouse berada pada gambar "
+dan terdapat pula pada tag <img> ada atribut width
+dan nilai / valuenya " menentukan lebar gambar "
+dan terdapat pula pada tag <img> ada atribut height
+dan nilai / valuenya " menentukan tinggi gambar "
+dalam menggunakan atribut width dan height ada kita bisa menentukan 2 nilai 
+1. jika kita menulis angkka sja itu artinya gambarnya berbentuk PX ( pixel )
+2. jika kita menggunakan % ukurannya relatif terhadap halamannya 

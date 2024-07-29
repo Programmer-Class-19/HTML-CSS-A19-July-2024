@@ -1,0 +1,36 @@
+pembahasan tag <form> pada html 
+ apa itu form 
+ form adalah elemen pada html untuk mengelola data dari input yang dilakukan oleh user 
+ contohnya saat mendaftar akun sosmed atau login ke akun sosmed 
+struktur code dalam membuat form pada html pertama - tama kita akan menggunakan tag <form>   </form> 
+ sebagai tempat mengumpulkan elemen elemen yang akan kita buat untuk form html dan elemen- elemen yang ada pada form sebagai berikut 
+ 1. elemen input 
+ elemen input adalah elemen yang paling penting dlm form html 
+ <input>
+Elemen <input> digunakan untuk berbagai jenis input, seperti teks, sandi, email, dll.
+ Tipe input ditentukan oleh atribut type.
+type="text": Input teks.
+pada setiap input text hasus ada penandanya atau tag atribut id ny 
+type="password": Input sandi.
+type="email": Input email.
+type="number": Input angka.
+type="checkbox": Input kotak centang.
+type="radio": Input tombol radio.
+type="submit": Tombol untuk mengirim form.
+type="reset": Tombol untuk mereset form.
+type="file": Input untuk mengunggah file.
+type="hidden": Input tersembunyi
+
+2. elemen textarea
+biasanya digunakan untuk komentar pada sosomed 
+buat chatingan atau ngasih pesan di fb dan gmail
+
+3. elemen select
+digunakan untuk menu drop-down
+
+4. elemen button 
+tombol untuk mengirimkan data nya atau spesifik
+
+5. elemen label 
+digunakan sebagai penanda elelmen input
+

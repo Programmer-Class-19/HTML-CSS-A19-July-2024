@@ -1,0 +1,51 @@
+pembahasan Hyperlink HTML
+dapat disebut link atau weblink 
+link adalah sebuah koneksi dari sumber web ke sumber lain 
+link pada HTML digunakan dengan tag <a> anchor </a> yang  dan terdapat atribut didalamnya yaitu href
+dan pada atribut href terdapat beberapa nilai/ value yang dapat kita tautkan dalam nya yaitu
+nilai / value pertama external link atau link ke website lain contohnya link menuju akun sosmed kita dan pada link webset mana pun
+asalkan kita menaruhnya link menuju website tersebut 
+nilai atau value kedua internal link atau halaman website lain yang ada di dalam domain kita atau satu domain dengan website yang kita buat 
+contoh nya kita memiliki domain yang tersebut ada 1 folder dan memiliki dua file halaman web html dan dan pada kedua web tersebut terdapat link yang kita tauntkan untuk saling berhubungan 
+dan nilai atau value kedua masih ada relatif url yang dimaksud dengan relatif url adalah dalam domain kita memiliki 2 folder dan satu 1 halaman web html kita yang akan kita taut kan link di kedua isi file pada folder tersebut agar saling tersambung 
+dan nilai atau value ketiga page anchor atau dapat disebut dengan bagian tertentu suatu halaman bukan hanya masuk ke suatu halaman tapi kita bisa pindah ke bagian tertentu sebuah halaman  dan pada nilai / value ketiga ini terdapat 
+tag <ul> un orderer list </ul>dan di dalam tag ul ada tag <li> list item </li> dan dalam tag <li ada tag <a>> anchor </a> dengan atribut href=dengan nilai atau value "#bagian dari yang ingin kita tuju " setelah itu kita harus memberikan penanda pada tiap tiap bagaian yang akan kita 
+pindah dengan artibut id= dan nilainya atau value nya kita isi dengan nama pada setiap bagian yang akan kita tuju dan setiap 
+struktur code nya :
+<!doctype html>
+<html>
+    <head>
+        <title> </title>
+    <head>
+    <body>
+       
+        <h1>judul dari semua halaman web<h1>
+      
+        <ul>
+            <li> <a href="#bagian1">bagian1</a> </li>
+            <li> a href="#bagian2">bagian2 </li>
+            <li> a href="#bagian3">bagian3 </li>
+        </ul>
+       
+        <h3 id=bagian1> bagian 1 <h3>
+        <p>suatu muqodimah  </p>
+        <br><br><br>
+
+        <h3 id="bagian2"> bagian 2 <h3>
+         <p> suatu muqodimah</p>
+        <br><br><br>
+        
+        <h3 id="bagian3"> bagian 3 <h3>
+        <p> suatu muqodimah</p>
+            <br><br><br>
+
+</body>
+</html>
+
+dapat juga misalnya kita memiliki file web html dan di file ini kita tautkan dengan
+ link page anchor untuk kebagaian yang kita tuju asalkan kita menarus link untuk ke halaman tersebut dan ke bagian yang akan kita tuju 
+ dan terdapat atribut lain juga pada hyperlink html yaitu 
+ tribut target= dan nilainya /valuenya 1. "_self" fungsinya untuk membuka link di tab yang sama / tempat halaman pyang kita klik linknya
+                                       2. "_blank" fungsinya untuk membuka ling dng tab baru 
+                                       3. "_parent"
+                                       4. "_top"
