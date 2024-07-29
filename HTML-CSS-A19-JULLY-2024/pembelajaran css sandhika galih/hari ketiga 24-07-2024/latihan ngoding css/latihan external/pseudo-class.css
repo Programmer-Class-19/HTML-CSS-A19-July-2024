@@ -14,7 +14,7 @@
 .hello:visited {
     color: brown;
 }
-li:nth-child(3n-2) a {  /*gunanya nth adalah mengurutkan list yang ke 3 atau selain first & last child dan gunanya n adalah kelipatan dan (-) gunanya mengurangi bilangan tersebut*/
+
 
     /* even untuk genap dan odd untuk ganjil */
     color: red;
@@ -24,7 +24,7 @@ p:last-of-type {
     color: brown;
 }
 
-li :hover {
+li:hover {
     font-family: sans-serif;
     transform :rotate(3.0);
     background-color: brown;
@@ -36,4 +36,11 @@ li:active {
 
 a:hover {
     color: brown;
+}
+li:nth-child(3n-2) a {
+    color: brown;
+}  /*gunanya nth adalah mengurutkan list yang ke 3 atau selain first & last child dan gunanya n adalah kelipatan dan (-) gunanya mengurangi bilangan tersebut*/
+
+li:nth-child(even) a { 
+    color: black;
 }
