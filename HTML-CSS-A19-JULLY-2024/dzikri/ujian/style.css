@@ -1,0 +1,130 @@
+body {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-transform: capitalize;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  p {
+    color: #d3d3d3;
+  }
+  
+  a {
+    color: blue;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color: blue;
+  }
+  
+  table {
+    width: 100%;
+    text-align: center;
+    backdrop-filter: blur(6px) saturate(200%);
+    -webkit-backdrop-filter: blur(6px) saturate(200%);
+    background-color: rgba(17, 25, 40, 0.31);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+  }
+  
+  td {
+    text-align: left;
+  }
+  
+  .gambar-container {
+    gap: 5px;
+    padding-top: 10px;
+  }
+  
+  .gamabar-container img {
+    height: 500px;
+    object-fit: cover;
+    gap: 10px;
+  }
+  
+  .nama {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .hobi {
+    display: flexbox;
+  }
+  
+  
+  .checkbox {
+    margin: 3px, 3px, 0px, 4px;
+  }
+  
+  button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #171717;
+    padding: 1em 2em;
+    border: none;
+    border-radius: .6rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+  }
+  
+  button span:not(:nth-child(6)) {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border-radius: 50%;
+    transition: .6s ease;
+  }
+  
+  button span:nth-child(6) {
+    position: relative;
+  }
+  
+  button span:nth-child(1) {
+    transform: translate(-3.3em, -4em);
+  }
+  
+  button span:nth-child(2) {
+    transform: translate(-6em, 1.3em);
+  }
+  
+  button span:nth-child(3) {
+    transform: translate(-.2em, 1.8em);
+  }
+  
+  button span:nth-child(4) {
+    transform: translate(3.5em, 1.4em);
+  }
+  
+  button span:nth-child(5) {
+    transform: translate(3.5em, -3.8em);
+  }
+  
+  button:hover span:not(:nth-child(6)) {
+    transform: translate(-50%, -50%) scale(4);
+    transition: 1.5s ease;
+  }
