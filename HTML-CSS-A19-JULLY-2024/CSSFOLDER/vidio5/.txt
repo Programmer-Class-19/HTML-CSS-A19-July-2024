@@ -1,0 +1,41 @@
+pembahasan texs styling  
+property yang terdapat pada css :
+1. color = untuk memberikan warna pada text / tulisan 
+valuenya ada 3 = > nama warna 
+                 > hexadecimal 
+                 > rgb
+cara gunakan value hexadecimal 
+menggunakan pagar #ffffff warna nya putih #000000 warnanya hitam 
+
+2. text - align = untuk mengatur format paragraf 
+valuenya ada 4 = > left
+                 > right
+                 > center
+                 > justify
+left rata kiri
+right rata kanan 
+center rata tengah 
+justify sama rata kiri dan kanan
+
+3. text - indent = untuk memberikan indentasi pada paragraf
+valuenya ada 2 = > px 
+                 > %
+
+4. text - decoration = untuk mengatur dekorasi texs 
+valuenya ada 4 = > none
+                 > underline 
+                 > overline
+                 > line-through
+
+5. text - transform = untuk mengubah jen is huruf menjadi huruf besr , kecil , / kapital 
+valuenya ada 4 = > none 
+                 > lowercase 
+                 > uppercase 
+                 > capitalize
+
+6. letter - spacing = untuk mengatur spasi antar huruf nya 
+valuenya ada 2 = > normal
+                 > px 
+7. word - spacing = untuk mengatur spasi antar kata 
+valuenya ada 2 = > normal
+                 > px 

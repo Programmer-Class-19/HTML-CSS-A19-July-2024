@@ -1,0 +1,7 @@
+.salam {
+color: #000;
+}
+
+li  :nth-last-child(1) {
+color: #aac001;
+}

@@ -1,0 +1,19 @@
+pembahasn backgroundd css 
+dengan background css kita dapat memasukannya pada elemen -elemen html yang ada 
+termasuk pada body. 
+property pada background ada 4 :
+1. background - color = untuk mengatur warna backgroundd
+2. background - image = untuk mengatur gambar yang akan digunakan pada backgroundd
+valuenya adalah menjadikan backgroundd sebagai gambar pada halaman web 
+
+3. background - position = untuk mengatur posisi gambar pada backgroundd
+valuenya ada 2 = > posisi sumbu y : top / center / botton 
+                 > posisi sumbu x : left / center / right 
+
+4. background - repeat = untuk mengatur jenis pengulangan gambar pada backgroundd
+valuenya ada = > repeat-x
+               > repeat-y
+               > no -repeat
+
+singkatan untuk memasng css : 
+property background:  background color url( )  position  repeat

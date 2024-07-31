@@ -1,0 +1,18 @@
+cara menempatkan { CSS }
+pada codingan kita atau pada file terpisah dan kita hubungkan file css dengan html 
+cara menempatkan css pada 1 file dengan html 
+dapat kita lakukan dengan cara
+- embed
+cara ini dapat kita gunakan css pada html dengan tag < styel >  </ styel >
+
+-inline
+cara ini dapat kita gunakan css pada html dalam tag elemen html dengan menggunakan atribut styel 
+contohnya = kita gunakan css pada tag <p> paragraf </p> dan kita gunakan atributnya styel valuenya"color: lightblue; "
+selector tag <p> property color: value lightblue;
+<p  styel="color: lightblue; ">.....</p>
+
+cara menempatkan css pada codingan kita dalam file css dan html berbeda
+-external
+dengan menghubungkan link antara dua 2 file css dan html 
+<link rel="styelsheet" href="styel.css">
+

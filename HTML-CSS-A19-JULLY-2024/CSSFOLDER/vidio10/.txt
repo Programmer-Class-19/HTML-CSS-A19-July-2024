@@ -1,0 +1,29 @@
+pembahasan specificity css
+devinisi specificity css 
+setiap deklarasi css ( selector ) memiliki berat yang berbeda. berat tersebut 
+menentukan seberapa spesifik sebuah elemen dapat  dipilih oleh selector.
+
+link untuk mengetahui specificity css
+http://www.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/
+
+menurut pemahaman mas'ud 
+specificity css itu adalah saat kita menselector html dng css maka selector yang di ambil yang lebih detail contohnya 
+dlam html kita memiliki tag <p> paragraf yang ditan dai dng atribut id  lalu saat kita menselectorkanya dengan css dengan setruktur yang sama seperti ini 
+p {
+    color: blue;
+}
+
+#p {
+    color: graey; 
+}
+maka selector yang diambil adalah yang ke dua yang color; graey;
+karna selector yang kedua lebih specificity dalam css
+
+dan menurut css yang lebih specificity dalam selector sebuah tag html dangan tanda atribut 
+1. inline
+2. id
+3. class
+4. elemen
+
+contoh apa bila tanda atribut id di adu dengan atribut class maka yang lebih digunakan adalah 
+selector yang paling specificity atau detail

@@ -1,0 +1,44 @@
+pembahasan css selector basic 
+digunakan pada css untuk mengenali sebuah elemen html yang akan dineri style
+ada beberapa hal yang dpat kita gunakan dalam selector:
+1. elemen html
+contohnya kita memiliki 3 buah hedding pada html h1 h2 h3 dan kita ingin mengubah warna nya 
+cara simpelnya menstyling warna nya dng css dengan menselectornya dengan tanda koma 
+h1, h2, h3 {
+    color: blue;
+} 
+
+apa bila kita ingin mengubah link yang terstuktur dengan tag <ul> atau tag <ol>
+cara kita agar dapat merubah warnya nya dengan cara menselectornya dengan sepasi contoh 
+ul spasi ol spasi a  {
+    color: gren; 
+} 
+
+misalanya pada halaman html kita memiliki 2 paragraf dan kita ingin membedakan warna teks dari masing masing ke dua paragraf tersebut 
+kita gunakan selector dengan cara
+paragraf awal kita tandai dengan id <p id="p1"> 
+paragraf kedua kita tandai dengan class <p class="p2"> 
+struktur codenya pada css 
+#p1 {
+    color: blue;
+}
+
+.p2 {
+    color: black; 
+}
+
+
+2. id = sebagai penanda agar dapat selector css pada html dng mudah dengan lambang # ( pagar )
+terori id 
+> sebuah elemen / tag html hanya boleh memiliki 1 id 
+> setiap halam hanya boleh memiliki 1 elemen dengan id tersebut
+> dapat digunakan sebagai penanda halaman untuk link 
+> digunakan juga untuk javascript
+> sebaiknya tidak digunakan untuk css ( lebih baik menggunakan class )
+
+
+3. class = sebagai penanda agar dapat selector css pada html dng mudah dengan lambang . ( titik )
+
+
+
+4. complex selector

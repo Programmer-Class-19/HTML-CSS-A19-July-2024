@@ -1,0 +1,18 @@
+Anatomi css
+dalam Anatomi css terdapat struktur membentuk 
+selector { property: value; }
+contoh h1 { color: blue; } artinya 
+selector adalah h1 
+property adalah color:
+value adalah blue; 
+dan setiap css menggunaakan { kurung kurawal }
+
+selector
+> digunakan untuk memilih dan memanipilasi elemen spesifik pada HTML 
+> elemen HTML dipilih berdasarkan tag , id , clas , bahkan pola / pattern 
+> semakain kompleks stuktur HTML, selector juga semakin bisa kompleks /. spesifik 
+
+link : https://developer.mozila.org/en-US/docs/Web/CSS/Reference
+untum memepelajari selector { property: value; } dalam css
+https:css-tricks.com/almanac
+

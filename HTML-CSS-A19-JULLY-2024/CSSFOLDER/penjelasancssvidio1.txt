@@ -1,0 +1,14 @@
+CSS singkatan dari Cascanding Styel Sheet gunanya untuk 
+memberikan styel seperti warna , ukuran pada elemen elemen html 
+definisi CSS:
+mekanisme sederhana yang mengatur gaya / Styel
+( warna , ukuran posisi , dll ) pada halaman web
+CSS yang membuat suatau halaman web menjadi rapi dan bagus
+teori CSS ( CASCADING STYEL SHEET ) :
+> Aturan yang digunakan untuk menampilkan elemen / tag html
+> Di buat terpisah dengan HTML 
+> Bertujuan untuk memisah konten dan styel 
+> 1 CSS dapat digunakan untuk banyak halaman HTML 
+> 1 halamn HTML dapt terlihat berbeda jika menggunakan CSS yang berbeda pula
+
+www.csszengarden.com web tentang css

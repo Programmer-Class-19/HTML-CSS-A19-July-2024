@@ -1,0 +1,30 @@
+pembahasan pseudo class
+definisi pseudo class
+kelas semua yang dimiliki oleh sebuah elemen html yang membuat kita dapat mendefinisikan style pada "keadaan tertentu" dari elemen tersebut 
+
+link untuk mengetahui lebih banyak mengenai pseudo class
+http://www.w3schools.com/css/css_pseudo_classes.asp
+
+
+pseudo class terbagi menjadi beberapa tipe 
+
+pseudo class yang berhubungan dengan link : 
+1. :link = style default pada sebuah link ( a yang memiliki href )
+2. :hover = style ketika kursor mouse berada diatas sebuah link / elemen
+3. :active = style ketika sebuah link di-klik ( keadaan aktif )
+4. :visited = style ketika sebuah link sudah pernah di kunjungi sebelumnya ( menggunakan browser yang sama )
+
+cara memeasang pseudo class dlm selector css awalnya haru mengunkan titik2 :
+
+pseudo class yang berhubungan dengan posisi elemen 1 
+1. :first-child = memilih elemen pertama dari sebuah parent ( elemen pembungkusnya )
+2. :last-child = memilih elemen terakhir dari sebuah parent ( elemen pembungkusnya )
+3. :nth-child ( n ) = memilih elemen ke-n dari sebuah parent ( elemen pembungkusnya )
+                      n bisa berarti urutan (1), (2),... atau pola (2n), (3n+2), (4n-1)atau  
+                      ganjil dan genap (even) & (odd)
+
+pseudo class yang berhubungan dengan posisi elemen (2)
+1. :first-of-type = memilih elemen pertama dari sebuah jenis / tipe tag 
+2. :last-of-type = memilih elemen terakhir dari sebuah jenis / tipe tag
+
+
