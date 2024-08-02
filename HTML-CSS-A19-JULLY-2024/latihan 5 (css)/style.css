@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+}
+
+h1, h2 {
+    color:red
+}
+
+ul li a {
+    color:greenyellow
+}
+
+ol li a {
+    color:coral
+}
+
+#prg1 {
+    color:aqua
+}
+
+.prg2 {
+    color:fuchsia
+}
+
+.cetak-tebal {
+    font-weight: bold;
+}
+
+p.prg2cetak-tebal {
+    font-weight: 50px;
+}
