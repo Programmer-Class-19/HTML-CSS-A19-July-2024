@@ -1,0 +1,29 @@
+.Hello:Link {color: peru;}
+
+.Hello:Hover {
+    color: darkred;
+    font-family: georgia;
+    font-size: 30px;
+}
+
+.Hello:Active {font-style: italic;}
+
+.Hello:Visited {color: red}
+
+li:first-child a {color: green;}
+
+li:last-child a {color: brown}
+
+li:nth-child(5) a {color: gold;}
+
+li:nth-child(7n-4) a {color: cyan;}
+
+li:nth-child(6n+2) a {color: saddlebrown;}
+
+li:nth-child(even) a:hover {color: goldenrod;}
+
+li:nth-child(odd) a:hover {color: orangered}
+
+p:first-of-type {color: forestgreen;}
+
+p:last-of-type {color: midnightblue;}

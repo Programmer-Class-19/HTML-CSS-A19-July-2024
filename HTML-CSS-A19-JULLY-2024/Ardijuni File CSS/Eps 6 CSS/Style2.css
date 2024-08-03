@@ -1,0 +1,36 @@
+body { 
+    font-family: Georgia;
+}
+
+H1, H2 {
+    Color: forestgreen;
+}
+
+H2 {
+    font-weight: bold;
+    font-style: Italic;
+}
+
+ul li a {
+    color: orangered;
+}
+
+ol li a {
+    color: red;
+}
+
+#P1 {
+    color: saddlebrown;
+}
+
+.Joker {
+    color: darkslategrey;
+}
+
+.Joker {
+    font-weight: bold;
+}
+
+.Joker {
+    font-size: 20px;
+}

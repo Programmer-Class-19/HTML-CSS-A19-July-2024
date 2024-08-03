@@ -1,0 +1,11 @@
+body {
+    font-family: Georgia;
+    color: gold;
+}
+
+head {
+    font-family: Georgia;
+    color: forestgreen;
+}
+
+a { color:inherit;}

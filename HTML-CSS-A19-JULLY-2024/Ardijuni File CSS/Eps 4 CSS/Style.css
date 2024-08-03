@@ -1,0 +1,11 @@
+H2 {
+    font-family: Georgia;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: oblique;
+}
+
+P {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 50px
+}
