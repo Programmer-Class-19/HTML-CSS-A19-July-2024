@@ -1,3 +1,9 @@
 #BocilKematian { color: forestgreen;}
 
 P { color: gold;}
+
+ul#Karina li { color: purple;}
+
+.Villain-Mendidik { color: sienna;}
+
+ul#Karina li.Villain-Mendidik { color: sienna;}
