@@ -1,0 +1,19 @@
+/* CSS untuk inherit dan pseudo */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(15, 241, 53);
+}
+a {color: inherit;}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: red;
+}
+/* Specifity */
+#p1 {
+    color: black;
+}
+.p1 {
+    color: blue;
+}

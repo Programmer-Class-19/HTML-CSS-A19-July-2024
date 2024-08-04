@@ -1,0 +1,14 @@
+/* Membuat backgroun */
+h1 {
+    color: rgb(22, 227, 4);
+    text-align: center;
+    font-size:1024%;
+}
+body {
+    background-color: white;
+    background-image: url(Image/Khodhir.JPG);
+    background-repeat:no-repeat;
+    background-position:center top;
+    background-size: 100%;
+
+}
