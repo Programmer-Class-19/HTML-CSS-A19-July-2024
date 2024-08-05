@@ -1,0 +1,15 @@
+body {
+    background-color: ;
+    background-image: url(burung.png);    
+    background-repeat: no-repeat ;
+    background-size: 30%;
+    background-position: bottom center;/* kalo ingin di bawah harus ada conten dan di akali dengan <BR> */
+    
+    /* shorthand di bawah ini */
+    background: black url(burung.png) top center no-repeat 30%; 
+}
+h1 {
+    color: rgb(154, 13, 13);
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
