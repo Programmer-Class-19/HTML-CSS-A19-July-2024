@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>form lanjutan</title>
+    </head>
+
+    <body>
+        <h1>membuat form lanjutan dari video sebelumnya</h1>
+
+        <form>
+            <label for="username">username</label>
+            <input type="text" id="username">
+            <br>
+            <label for="password">password</label>
+            <input type="password" id="password">
+            <br>
+            <label for="pria">pria</label>
+            <input type="radio" name="kelamin" id="pria">
+            
+            <label for="wanita">wanita</label>
+            <input type="radio" name="kelamin" id="kelamin">
+            <br>
+            <hr>
+            <br>
+            <label for="penyanyi">penyanyi</label>
+            <input type="checkbox" id="penyanyi">
+            <label for="main bola">main bola</label>
+            <input type="checkbox" id="main bola">
+            <label for="ngoding">ngoding</label>
+            
+            <br>
+            <!-- tidak di sarankan membuat submit di input karena ada code button -->
+            
+            <br>
+            <textarea></textarea>
+            <br>
+            <!-- select -->
+            <!-- isi dari select ada option -->
+            <h4>membuat combo box</h4>
+
+            <select>
+                <option>bandung</option>
+                <option>jakarta</option>
+                <option>bogor</option>
+            </select>
+            <br> 
+            <!-- checkbox -->
+            <h3>membuat checkbox</h3>
+            <input type="checkbox" id="ngoding">
+            <br>
+            <button>kirim!!</button>
+        </form>
+
+        <table border="1" cellspacing="0" cellpadding="0">
+            <form>
+                <thead>
+                    <th><label for="username">username :</label></th>
+                    <th colspan="2"><input type="text" id="username"></th>                
+                </thead>
+
+                    <tbody>
+                        <tr>
+                            <th><label for="password">password :</label></th>
+                            <td><input type="password"></td>
+                        </tr>
+                        <tr>
+                            <th colspan="2"><label for="pria">pria</label>
+                            <input type="radio" name="kelamin"> <label for="wanita">wanita</label><input type="radio" name="kelamin"></th>
+                        </tr>
+                        <tr>
+                            <th colspan="2"><label for="ngoding">ngoding</label>
+                            <input type="checkbox"> <label for="nyelam">nyelam</label><input type="checkbox"></th>
+                        </tr>
+                        <tr>
+                            <th>combo box :</th> 
+                                <td>
+                                    <select>
+                                        <option>bandung</option>
+                                        <option>bogor</option>
+                                        <option>yogyakarta</option>
+                                    </select>
+                                </td>
+                        </tr>
+                        <tr>
+                            <th>textarea</th>
+                            <td><textarea name="" id=""></textarea></td>
+                        </tr>
+                        <tr>
+                            <th colspan="2"><button>kirim!!</button></th>
+                        </tr>
+                    </tbody>
+            </form>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+    <!-- form untuk menuliskan data atau formulir -->
+    <!-- text field untuk membentuk kolom berfungsi untuk mengisi nama -->
+    <!-- listbox berbentuk seperti kolom berisi tanggal yang biasanya terdapat di form registrasi -->
+    <!-- radio button berbentuk lingkaran untuk di isi salah satunya -->
+    <!-- checkbox berbentuk tombol ceklis -->
+    <body>
+        <h4>elemen elemen yang berada di form</h4>
+        <dl>
+            <dt>input</dt>
+            <dd>untuk bisa menginputkan sesuatu</dd>
+            <dt>textarea</dt>
+            <dd>untuk membuat kolom yang besar yang biasa berisi catatan</dd>
+            <dt>select</dt>
+            <dd>untuk membuat dropdown</dd>
+            <dt>button</dt>
+            <dd>biasa berbentuk tombol</dd>
+            <dt>label</dt>
+            <dd>untuk menandai elemen input</dd>
+        </dl>
+        <br>
+        <h4>type type pada input</h4>
+        <ol>
+            <li>text</li>
+            <li>password</li>
+            <li>radio</li>
+            <li>checkbox</li>
+            <li>submit</li>
+            <li>reset</li>
+            <li>button</li>
+        </ol>
+        <h4>membuat form</h4>
+        <!-- ID harus sama dengan FOR -->
+        <form>
+            <label for="username">username</label>
+            <input type="text" id="username">
+            <br>
+            <label for="password">password</label>
+            <input type="password" id="password">
+            <br>
+            <label for="pria">pria</label>
+            <input type="radio" name="kelamin" id="pria">
+            
+            <label for="wanita">wanita</label>
+            <input type="radio" name="kelamin" id="kelamin">
+            <br>
+            <hr>
+            <br>
+            <label for="penyanyi">penyanyi</label>
+            <input type="checkbox" id="penyanyi">
+            <label for="main bola">main bola</label>
+            <input type="checkbox" id="main bola">
+            <label for="ngoding">ngoding</label>
+            <input type="checkbox" id="ngoding">
+            <br>
+            <!-- tidak di sarankan membuat submit di input karena ada code button -->
+            <button type="button">kirim!!</button>
+        </form>
+    </body>
+</html>
