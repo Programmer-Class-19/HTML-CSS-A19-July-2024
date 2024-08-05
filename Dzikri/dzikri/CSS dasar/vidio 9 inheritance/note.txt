@@ -1,0 +1,3 @@
+definisi inheritance 
+-sebuah elemen mewarisi beberapa nilai dari properti yang di miliki oleh elemen parent-nya
+-untuk melihat properti yang di wariskan bisa melihat dari foto di atas

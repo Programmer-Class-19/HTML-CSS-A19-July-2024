@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORM</title>
+</head>
+<body>
+    <!-- <form> untuk membuat form -->
+    <table border="0" cellspacing="0" cellpadding="0">    
+        <form>
+            <thead>
+                <th><label for="username">username :</label></th>
+                   <td colspan="2"><input type="text" id="username"></td> 
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th><label for="password">password :</label></th>
+                    <td colspan="2"><input type="password" id="password"></td>
+                </tr>
+                
+                <tr>
+                    <th>jenis kelamin</th>
+                    <td colspan="2"><input type="radio" id="pria" name="jeniskelamin"><label for="pria">pria</label>
+                    <input type="radio" id="wanita" name="jeniskelamin"><label for="wanita">wanita</label></td>
+                </tr>
+
+                <tr>    
+                    <th colspan="3">
+                    <input type="checkbox" id="olahraga"><label for="olahraga">olahraga</label>
+                    <input type="checkbox" id="ngoding"><label for="ngoding">ngoding</label></th>
+                 </tr>   
+                 <tr>
+                    <th>text area </th>
+                    <td colspan="2"><textarea></textarea></td>
+                 </tr>
+                <thead>
+                    <th colspan="2">combo box</th>
+                    <td>
+                        <select>
+                            <option>Bandung</option>
+                            <option>Yogyakarta</option>
+                            <option>Jakarta</option>
+                        </select>
+                    </td>
+                </thead>
+                <tr>
+                    <td colspan="2"><button type="submit">kirim</button></td>
+
+                </tr>
+            </tbody>
+        </form>
+    </table>
+</body>
+</html>

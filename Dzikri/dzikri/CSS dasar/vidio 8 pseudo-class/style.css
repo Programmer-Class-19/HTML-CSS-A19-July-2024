@@ -1,0 +1,33 @@
+.hello {
+    color: orange;
+}
+
+.hello:hover {
+    color: green;
+    font-family: arial;
+    font-size: 10px;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+.hello:visited {
+    color: red;
+}
+/* cara menggunakan first-child last child nth-child */
+li:nth-child(odd) a{
+    color: green;
+}
+
+li:nth-child(odd) a:hover {
+    color: blue;
+}
+
+p:first-of-type {
+    color: red;
+}
+
+p:last-of-type {
+    color: blue;
+}

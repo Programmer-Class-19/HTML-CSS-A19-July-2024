@@ -1,0 +1,9 @@
+selector dasar /basic
+"di gunakan pada css untuk mengenali sebuah elemen html yang akan diberi style"
+
+id 
+-sebauh elemen HTML hanya boleh memiliki 1 id
+-setiap halaman hanya boleh memiliki 1 elemen dengan id tersebut
+-dapat di gunakan sebagai penanda halaman untuk link
+-di gunakan juga untuk javascript
+-sebaiknya tidak di gunakan untuk CSS (lebih baik guanakan class)

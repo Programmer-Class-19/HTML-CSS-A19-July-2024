@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    background-image: url(gambar/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,3 @@
+specificity 
+setiap deklarasi css (selector)
+memiliki berat yang berbeda. berat tersebut menentukan seberapa spesifik sebuah elemen dapat di pilih oleh selector.
