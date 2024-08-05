@@ -1,0 +1,44 @@
+h1 {
+    font-size: 80px;
+    color:blue
+}
+
+h2 {
+    font-size: 80px;
+    color:#7fffd4
+}
+
+h3 {
+    font-size: 80px;
+    color:rgb(255,0,0)
+}
+
+
+
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    word-spacing: 5px;
+}
+
+
+
+
+h4 {
+    font-size: 50px;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+
+h5 {
+    font-size: 50px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h6 {
+    font-size: 50px;
+    text-decoration: line-through;
+    text-transform: capitalize;
+}

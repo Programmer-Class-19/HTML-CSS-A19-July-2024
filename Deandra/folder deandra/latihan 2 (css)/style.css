@@ -1,0 +1,14 @@
+h1 {
+    font-style: italic;
+    font-size: 40px;
+    font-variant: normal;
+    font-weight: 400px;
+}
+p {
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 18px;
+    font-family: halvetica;
+}
