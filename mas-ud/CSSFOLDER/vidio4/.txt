@@ -1,0 +1,56 @@
+pembahasan cara memberikan styling pada font
+CSS memisahkan antara font dan teks 
+font terkait dengan tulisan atau tabvisn
+teks terkait dengan property pendukung 
+pembahsan terkait font
+font memiliki berbagai macam antarannya:
+1. font family = untuk mengatur jenis font apa yang akan digunakan
+valuenya ada 2 = > nama font
+                 > generic family 
+contoh stuktur codenya:
+ contoh 1:
+ body { 
+    font-family: arial, verdana, sans-sarif;
+}
+= arial, verdana, sabegai nama font   sans-sarief; sebagai generic family
+
+contoh 2:
+p {
+    font-family: "Times New Roman", sarief;
+}
+                 
+2. font-size = untuk mengatur ukuran font 
+valuenya ada 3 = > px ( pixel )
+                 > %
+                 > em
+
+3. font-weight = untuk mengatur ketebalan font 
+valuenya ada 5 = > lighter
+                 > normal
+                 > 100-900
+                 > bold
+                 > bolder 
+
+4. font-variant = untuk mengubah font small caps
+small caps adalah merubah teks font menjadi huruf kapital / beasr
+valuenya ada 2 = > normal
+                 > small-caps
+
+
+5. font-styel = untuk mengubah font menjadi bercetak miring 
+valuenya ada 3 = > normal
+                 > italic
+                 > oblique
+value italic dan oblique sama - sama memiringkan gaya teks 
+
+6.line-height = untuk mengatur spasi antar baris 
+valuenya ada 3 = > normal
+                 > px
+                 > em
+
+urutan memasang css pada tag html agar dalam 1 { kurung kurawal }
+contohnya ingin mengatur bagian body html 
+urutan css nya 
+body {
+    font style , font variant , font-weight , font size , font height font family
+}

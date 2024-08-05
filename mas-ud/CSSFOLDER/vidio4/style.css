@@ -1,0 +1,17 @@
+h1 {
+    font-family: arial, Arial, Helvetica, sans-serif 
+    
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-size: 100px; 
+    font-variant: small-caps;
+}
+
+p {
+    line-height: 30px;
+}

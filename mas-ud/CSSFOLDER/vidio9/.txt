@@ -1,0 +1,18 @@
+pewasisan pada css atau ( inheritiance )
+definisi inheritiance 
+sebuah elemen mewarisi beberapa nilai dari properti yang dimiliki oleh elemen parent-nya 
+
+link untuk mempelajari lebioh luas inheritiance
+http://www.w3.org/TR/CSS21/cascade.html#inheritiance
+
+properti yang diwariskan inheritiance:
+1.color
+2.font
+3.latter-spacing
+4.line-height
+5.list-style
+6.text-align
+7.text-indent
+8.text-transform
+9.visibility
+10.white-space
